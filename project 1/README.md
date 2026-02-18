@@ -159,10 +159,10 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Mentor
+## 👤 Author
 
 **my Name**
-- GitHub: [@my-username](https://github.com/rahilbeigmirza-git)
+- GitHub: [@my-username](https://github.com/rahilbeigmirza-bit)
 - LinkedIn: [my-linkedin](https://linkedin.com/in/)
 ---
 
