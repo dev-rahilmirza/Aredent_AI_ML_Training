@@ -108,10 +108,9 @@ A feature-rich, modular calculator handling both arithmetic and statistical oper
 
 Feel free to reach out or explore my work!
 
-- 💼 **GitHub:** [github.com/rahilmirza](#) *(update with your actual username)*
-- 📸 **Instagram:** [@code_scholar_eu](https://www.instagram.com/code_scholar_eu/)
-- 📧 **Email:** *(update with your email)*
-
+- 💼 **GitHub:** [github.com/dev-rahilmirza](#) 
+- 📸 **Fcebook:** [Rahil Mirza](https://www.instagram.com/code_scholar_eu/)
+- 📧 **Email:** sani2006mirza@gmail.com
 ---
 
 <div align="center">
