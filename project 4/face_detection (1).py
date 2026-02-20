@@ -14,7 +14,7 @@ face_cascade = cv2.CascadeClassifier(
 
 # Start Webcam
 
-cap = cv2.VideoCapture(2, cv2.CAP_AVFOUNDATION)
+cap = cv2.VideoCapture(0)
 
 # Check if webcam opened successfully
 if not cap.isOpened():
