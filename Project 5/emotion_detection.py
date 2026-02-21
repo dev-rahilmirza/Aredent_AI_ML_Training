@@ -7,7 +7,7 @@ import numpy as np
 from keras.models import load_model
 
 # Load face detection model
-face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
+face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
 
 # Load emotion model
 emotion_model = load_model("emotion_model.hdf5", compile=False)
@@ -23,8 +23,8 @@ emotion_labels = [
     "Neutral"
 ]
 
-# Start webcam (Mac compatible)
-cap = cv2.VideoCapture(0, cv2.CAP_AVFOUNDATION)
+# Start webcam (windows compatible)
+cap = cv2.VideoCapture(0)
 
 print("Press 'q' to quit")
 
