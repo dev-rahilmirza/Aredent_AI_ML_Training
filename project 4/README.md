@@ -11,7 +11,7 @@ A real-time face detection application built with Python and OpenCV, using the H
 ## 📸 Demo
 
 The system draws a green bounding box around every detected face in real time, along with a live face count overlay on the screen.
-<img width="652" height="447" alt="image" src="https://github.com/user-attachments/assets/455e2667-1a09-498e-bb30-061ac148261d" />
+
 
 ---
 
